@@ -1,5 +1,5 @@
 pipeline {
-    agent label 'Terraform'
+    agent label 'TerraformLabel'
     stages{
         stage('VCS'){
             steps{
