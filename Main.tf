@@ -1,3 +1,3 @@
-resource "aws_s3_bucket" "My_First_Bucket" {
-  bucket = "Nighitfunhours"
+resource "aws_s3_bucket" "Frist_Buc_Ashok001" {
+  bucket = "LateHours007"
 }
